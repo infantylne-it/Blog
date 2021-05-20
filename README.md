@@ -1,2 +1,2 @@
-# Blog
+# blog
 Created with CodeSandbox
