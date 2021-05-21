@@ -11,6 +11,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: ftp://s0.small.pl
+        server: s0.small.pl
         username: f1069_blog
         password: PmqcmdwiDlrlj6r5rThl
