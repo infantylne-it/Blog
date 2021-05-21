@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftps://s0.small.pl
         username: f1069_blog
-        password: ${{ secrets.PROD_FTP_PASSWORD }}
+        password: PmqcmdwiDlrlj6r5rThl
